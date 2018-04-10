@@ -1,4 +1,4 @@
-#Flaskr + DUO = 2FA your login
+# Duo Identity Check
 
 ## How to use
 1. Setup a Duo [WebDSK](https://duo.com/docs/duoweb) application
